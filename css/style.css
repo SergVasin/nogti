@@ -1,0 +1,358 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 22px;
+	color: #000000;
+
+}
+
+
+
+/*===хидер===*/
+
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 999;
+	background: #fff;
+	width: 100%;
+	padding-top: 28px;
+	padding-bottom: 31px;
+}
+.container {
+}
+.header__wr {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo {
+}
+.location {
+	display: flex;
+	align-items: center;
+}
+.location__city {
+	font-size: 16px;
+	letter-spacing: 0px;
+	line-height: 19px;
+	color: #393939;
+	margin-left: 10px;
+	padding-bottom: 3px;
+	border-bottom: 2px dashed #e47388;
+	cursor: pointer;
+}
+.location__city:hover{
+	color: #e47388;
+}
+.location__block {
+}
+.phone {
+	display: flex;
+	align-items: center;
+}
+.phone__link {
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: 0px;
+	line-height: 18px;
+	color: #393939;
+	margin-left: 11px;
+}
+.phone__link span{
+	font-weight: 400;
+	color: #a0a0a0;
+}
+.phone__link:hover{
+	color: #e47388;
+	text-decoration: underline;
+}
+.forum-link {
+	font-size: 14px;
+	color: #ffffff;
+	line-height: 16px;
+	padding: 11px 22px;
+	border-radius: 18px;
+	filter: drop-shadow(0px 4px 4.5px rgba(226,105,128,0.52));
+	background-color: #88b77e;
+}
+.forum-link:hover{
+	background: #e47388;
+}
+.enter {
+	display: flex;
+	align-items: center;
+}
+.enter-link {
+	font-size: 16px;
+	line-height: 16px;
+	color: #393939;
+	margin-left: 10px;
+}
+.enter-link:hover{
+	color: #e47388;
+	text-decoration: underline;
+}
+
+/*===первый экран===*/
+
+.main {
+	background-color: #edd7d8;
+	height: 100vh;
+	position: relative;
+	padding-top: 138px;
+}
+.main__bg {
+	position: absolute;
+	bottom: 0;
+	height: 100%;
+	left: -10%;
+	width: 110%;
+}
+.main-img{
+	position: absolute;
+	z-index: 3;
+}
+.main1{
+	right: 23px;
+	top: 80px;
+}
+.main2{
+	right: 470px;
+	bottom: -32px;
+}
+.main3{
+	right: 42px;
+	bottom: -53px;
+}
+.main4{
+	top: -35px;
+	right: 250px;
+}
+.main5{
+	top: -24px;
+	left: 253px;
+	z-index: 9;
+}
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+	position: relative;
+}
+.main .container {
+	display: flex;
+	justify-content: center;
+}
+.main__wr {
+	background: linear-gradient(90deg, rgb(7 191 133 / 10%), rgb(7 191 133 / 2%), rgb(7 191 133 / 10%));
+	backdrop-filter: blur(10px);
+	filter: drop-shadow(0px 4px 28.5px rgba(204,113,15,0.33));
+	padding: 70px 55px 58px 55px;
+	border-radius: 30px;
+	position: relative;
+	z-index: 5;
+}
+.main__title {
+	font-size: 31px;
+	letter-spacing: 1px;
+	line-height: 1;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 36px;
+}
+.search {
+	display: flex;
+	justify-content: center;
+}
+.search__box {
+	margin-right: 13px;
+}
+.search__box-input {
+	font-family: 'Open Sans Condensed', sans-serif;
+	border-radius: 19px;
+	background-color: #ffffff;
+	border: 1px solid rgba(0,0,0,0.07);
+	width: 381px;
+	padding: 13px 21px 8px 20px;
+	font-size: 11px;
+	letter-spacing: 0px;
+	line-height: 1;
+	color: #cbcbcb;
+	margin-bottom: 13px;
+	margin-top: 4px;
+}
+.search__box-input::placeholder {
+	font-size: 13px;
+	letter-spacing: 0px;
+	line-height: 1;
+	color: #cbcbcb;
+}
+.search__box-categoty {
+	display: flex;
+}
+.box-categoty__item {
+	font-size: 13px;
+	letter-spacing: 0px;
+	border-radius: 12px;
+	max-width: max-content;
+	font-weight: 700;
+	margin-right: 17px;
+	padding: 7px 11px 5px 11px;
+	line-height: 1;
+	cursor: pointer;
+	margin-bottom: 13px;
+}
+.box-categoty__item1 {
+	color: #774756;
+	border: 2px solid #774756;
+}
+.box-categoty__item2 {
+	color: #477748;
+	border: 2px solid #477748;
+}
+.box-categoty__item3 {
+	color: #774774;
+	border: 2px solid #774774;
+}
+.box-categoty__item4 {
+	color: #4e4777;
+	border: 2px solid #4e4777;
+}
+.box-categoty__item5 {
+	color: #be1919;
+	border: 2px solid #be1919;
+}
+.box-categoty__item6 {
+	color: #85a028;
+	border: 2px solid #85a028;
+}
+.box-categoty__item7 {
+	color: #33c4c2;
+	border: 2px solid #33c4c2;
+}
+.box-categoty__item8 {
+	color: #5c9edc;
+	border: 2px solid #5c9edc;
+}
+.box-categoty__item9 {
+	color: #dfa833;
+	border: 2px solid #dfa833;
+}
+.box-categoty__item10 {
+	color: #c886d9;
+	border: 2px solid #c886d9;
+}
+.box-categoty__item1:hover {
+	color: #fff;
+	background: #774756;
+}
+.box-categoty__item2:hover {
+	color: #fff;
+	background: #477748;
+}
+.box-categoty__item3:hover {
+	color: #fff;
+	background: #774774;
+}
+.box-categoty__item4:hover {
+	color: #fff;
+	background: #4e4777;
+}
+.box-categoty__item5:hover {
+	color: #fff;
+	background: #be1919;
+}
+.box-categoty__item6:hover {
+	color: #fff;
+	background: #85a028;
+}
+.box-categoty__item7:hover {
+	color: #fff;
+	background: #33c4c2;
+}
+.box-categoty__item8:hover {
+	color: #fff;
+	background: #5c9edc;
+}
+.box-categoty__item9:hover {
+	color: #fff;
+	background: #dfa833;
+}
+.box-categoty__item10:hover {
+	color: #fff;
+	background: #c886d9;
+}
+.search__btn {
+	width: 76px;
+	height: 76px;
+	border-radius: 38px;
+	background-color: #e26980;
+}
+.search__btn:hover{
+	transform: scale(1.01);
+}
+
+.main__tab {
+	position: relative;
+	padding: 15px 135px;
+	border-radius: 19px;
+	filter: drop-shadow(0px 7px 21.5px rgba(226,105,128,0.81));
+	background-color: #e1697f;
+	z-index: 99;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 56px;
+	z-index: 5;
+}
+.main__tab-img {
+	position: absolute;
+}
+.main__tab-img1 {
+	left: 0;
+	top: -23px;
+}
+.main__tab-img2 {
+	right: 0;
+	bottom: -23px;
+}
+.main__tab-text {
+	font-size: 19px;
+	line-height: 19px;
+	color: #862134;
+	margin-right: 18px;
+	margin-left: 18px;
+}
+.main__tab-text1 {
+	position: absolute;
+	margin: 0;
+	left: 99px;
+}
+.main__tab-link {
+	font-size: 14px;
+	letter-spacing: 1px;
+	line-height: 14px;
+	color: #000000;
+	font-weight: bold;
+	border-radius: 16px;
+	filter: drop-shadow(0px 3px 6.5px rgba(175,52,76,0.81));
+	background-color: #ffffff;
+	text-transform: uppercase;
+	padding: 8px 32px 6px 31px;
+	border: 2px solid #fff;
+}
+.main__tab-link:hover{
+	background: transparent;
+	border: 2px dashed #fff;
+	color: #fff;
+}
+.active__tab{
+	background: transparent;
+	border: 2px dashed #fff;
+	color: #fff;
+}
