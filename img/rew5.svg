@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 55" width="42" height="55">
+	<title>ОТЗЫВЫ</title>
+	<defs>
+		<image  width="29" height="43" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAArCAMAAACzbnONAAAAAXNSR0IB2cksfwAAAVlQTFRFd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWd0dWnIeERwAAAHN0Uk5TXjUAF61kHeibCDP5yS9N/+9acpoMlMYEu/Fh1JkPKevMSfz1a2qiFZDVNgWy9G4Ro+rYPUX3dGasGYbdQQGp+nkNI0P9t68gq3aJ2z9oqkf49nEr1jkSnxMGtfKT0m1M7MoYl77wX8MslgtQ7VYf6QdiYO0GvxEAAAFGSURBVHicfdJnUwIxEAbgY8EG6FoPFQU7FrCDFRF7w3bYO2fv+v8/eJcYBi4b3m+ZZ7LZzaymuUAdze0pK6FQXlFZpVbw+vzVaoUarK1TK9QjNjQqFZoQdao610AzYkurSsEdRMS2doVCKGxxh/NnhEJnl8XdPQqFXrTTF6EV+hkPDNI6FGUcGyYVRoKMcTRCKYTGOI9PUAqTcc7xBKUwhf+ZniEUZgXPzROaXBCcWkxKCmldMEaXJIXllTyvynf9eVxbl97dEObblLvaEri9I/ecEbjrlufd2+d2cMjPRWqEOWaPQNbjLMeTU5D17JzZRcH2FOglwysvUHrtqFqkN/ZOxjLFAwo1bi288wKpObtdMw2kBu4RHx6dJtREfHqWkWsC8eWVQKZv+P5BGVNXSjdotPTzy/xWIGg5z4/KLP11/kBh/gAXxTGpqxWN0wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ОТЗЫВЫ">
+		<use id="Слой 32" href="#img1" x="6" y="2" />
+	</g>
+</svg>
