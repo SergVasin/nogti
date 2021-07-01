@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83 71" width="83" height="71">
+	<title>ПРЕИМЩУЕСТВА НИЗ</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #e26980;stroke-width: 2.65;stroke-dasharray: 11,5 } 
+	</style>
+	<g id="ПРЕИМЩУЕСТВА НИЗ">
+		<path id="Прямоугольник, скругл. углы 12" class="shp0" d="M20 0L64 0C74.49 0 83 8.51 83 19L83 52C83 62.49 74.49 71 64 71L20 71C9.51 71 1 62.49 1 52L1 19C1 8.51 9.51 0 20 0Z" />
+	</g>
+</svg>
