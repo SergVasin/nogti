@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 15" width="17" height="15">
+	<title>НАЙДИ СВОЕГО МАСТЕРА</title>
+	<defs>
+		<image  width="17" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAPCAMAAAA1b9QjAAAAAXNSR0IB2cksfwAAAWhQTFRF4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmA4mmAENACbwAAAHh0Uk5TAC+GyObvgAuc/dmddJL/hzbD6lIBjs/7j6XrH0v6PkQNZQ5PPLzBCBQuovYPvcAaU3HM6N1FTlf5CW2UWUwyBBBgjdioXWwFRmHQmbuwAyUdsbm+pMeM9AwG7nLe53MR9Rlm6W5+OfGKY/L37PxV+PNYW1R21+16bcS3HAAAAOlJREFUeJxjYAABRiZmFlY2Bjhg5+Dk4ubh5eMXgAkICgmLAGlRMXEJEbCIpJQ0VE5GlhdEyfHJg7kKikoMynwqQJaqGpBQ19DU0tZhYNDVY2DQ5zRgMDQy1pY1MQXKmPFJM5hbWFpxWtvY2tmDtDpoOzI4OTOoujC4WjIoubl7eDJ4eTP4+DJI+vj5+jMEBFoGBTOEhDJwhTEohkeAbYuMimZgi2GIjWOITzAEiyhaJDIkJTOwprBbpmqnAQXs0jPU2TNZGbKyc3KE+HIz8pjy+XJycrQLGGQKi4psiktKy7jKi22KigptATAgJWZF1ZJBAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="НАЙДИ СВОЕГО МАСТЕРА">
+		<use id="Слой 9" href="#img1" x="0" y="0" />
+	</g>
+</svg>
